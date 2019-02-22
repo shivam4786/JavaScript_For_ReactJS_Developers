@@ -1,3 +1,9 @@
+# Clone This Repo 
+# Run " npm start "
+# goto index.js and see console page of React App and see essentials for React implemented there
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
