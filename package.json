@@ -24,5 +24,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "Run \" npm start \". goto index.js and see console page of React App and see essentials for React implemented there.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam4786/JavaScript_For_ReactJS_Developers.git"
+  },
+  "author": "\"Shivam Sharma\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam4786/JavaScript_For_ReactJS_Developers/issues"
+  },
+  "homepage": "https://github.com/shivam4786/JavaScript_For_ReactJS_Developers#readme"
 }
