@@ -1,6 +1,6 @@
 # Clone This Repo 
-Run " npm start "
-goto index.js and see console page of React App and see essentials for React implemented there
+Run " npm start ".
+goto index.js and see console page of React App and see essentials for React implemented there.
 
 
 
